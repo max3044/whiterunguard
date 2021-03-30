@@ -1,0 +1,4 @@
+aiogram==2.10.1
+python-dotenv
+SpeechRecognition
+ftransc
